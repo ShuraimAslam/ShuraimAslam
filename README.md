@@ -2,5 +2,5 @@
 - 👀 Interested in Machine Learning, Computer Vision, and LLM systems
 - 🌱 Currently building ML projects with a focus on end-to-end pipelines
 - 🤝 Looking to collaborate on ML, CV, and RAG-based projects
-- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/your-link-here
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/shuraimaslam/
 - ⚡ Fun fact: I care more about shipping working systems than perfect theory
